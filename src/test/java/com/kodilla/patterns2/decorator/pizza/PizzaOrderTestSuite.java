@@ -35,5 +35,4 @@ public class PizzaOrderTestSuite {
         assertEquals(27.70, cost, 0.001);
         assertEquals("Pizza: cheese, bacon, pepper, zucchini, extra thick dough", specs);
     }
-
 }
